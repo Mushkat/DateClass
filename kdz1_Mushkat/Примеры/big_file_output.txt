@@ -1,0 +1,10 @@
+Digit 0: 17
+Digit 1: 23
+Digit 2: 10
+Digit 3: 8
+Digit 4: 9
+Digit 5: 14
+Digit 6: 9
+Digit 7: 9
+Digit 8: 11
+Digit 9: 8

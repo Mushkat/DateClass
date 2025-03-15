@@ -1,0 +1,10 @@
+Digit 0: 0
+Digit 1: 1
+Digit 2: 1
+Digit 3: 1
+Digit 4: 1
+Digit 5: 1
+Digit 6: 1
+Digit 7: 1
+Digit 8: 0
+Digit 9: 0
